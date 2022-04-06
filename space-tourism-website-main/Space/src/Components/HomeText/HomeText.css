@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@100;200&family=Barlow:wght@300&family=Josefin+Sans&family=Libre+Baskerville&family=Manrope:wght@200&family=Poppins:wght@200&family=Raleway:ital,wght@0,100;1,200&family=Zen+Old+Mincho:wght@900&display=swap');
+.HomeText{
+    font-family: 'Arima Madurai', cursive;
+
+    width: 100%;
+    /* height: 100%; */
+    display: flex;
+    position: absolute;
+    top: 35%;
+    right:  5%;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    padding: 0px;
+    margin: 0px;
+    color: #eeeeeeee;
+    /* position: absolute; */
+    /* bottom: 30; */
+    
+}
+.sircel{
+    background-color: #fff;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0px;
+
+}
+
+.sircel a{
+    color: #010101;
+    text-decoration: none;
+    font-size: 1.5em;
+    /* font-family: 'Josefin Sans', sans-serif; */
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+}
+.sircel a:hover{
+    color: #4247a9;
+    text-decoration: none;
+}
+
+
+
+.title-1{
+    /* font-family: "Barlow Condensed"; */
+    font-size: 28px;
+    letter-spacing: 2px;
+    font-weight: 300;
+    margin-bottom: -20px;
+    /* color: var(--pale-blue); */
+ }
+ .title-2{
+    font-size: 100px;
+    /* font-family: "Barlow Condensed"; */
+ }
+ .paragraph{
+ width: 400px;
+ }

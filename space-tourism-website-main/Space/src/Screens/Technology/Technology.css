@@ -1,0 +1,85 @@
+.Technology{
+    background-image: url('../../assets/technology/background-technology-desktop.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    color: #fff;
+
+}
+.technology-container{
+    margin: 90px 0;
+     display: flex;
+     padding: 20px;
+     align-items: center;
+     width: 100vw;
+     height: 100vh;
+  
+}
+.Technology-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    
+}
+
+.technology-content{
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+   
+}
+.technology-slides{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+
+}
+
+
+
+#imageTech{
+    height: 400px;
+}
+
+.technology-info{
+    height: 100%;
+    width: 56%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    /* justify-content: flex-st art; */
+    text-align: start;
+    align-items: flex-start;
+}
+.title{
+    font-size: 20px;
+    color: rgb(201, 224, 244);
+    letter-spacing: 4px;
+    margin: 0;
+
+}
+
+.technology-title{
+    letter-spacing: 4px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.technology-name{
+    font-size: 60px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+.technology-description{
+    font-size: 16px;
+    color: rgb(160, 175, 244);
+}
